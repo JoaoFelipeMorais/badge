@@ -6,4 +6,7 @@ aula 02 front end devops
  - Pull request
  - merge
 
-## alteração
+## Comandos Git
+ - git clone (clona um repositório existente)
+ - git branch (mostrar a branch atual)
+ - git checkout -b (criar uma nova branch)
